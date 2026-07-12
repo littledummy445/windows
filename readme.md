@@ -1,4 +1,4 @@
-<h1 align="center">Windows<br />
+This project is tested with BrowserStack <h1 align="center">Windows<br />
 <div align="center">
 <a href="https://github.com/dockur/windows"><img src="https://github.com/dockur/windows/raw/master/.github/logo.png" title="Logo" style="max-width:100%;" width="96" /></a>
 </div>
